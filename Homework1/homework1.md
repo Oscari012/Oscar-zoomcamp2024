@@ -54,3 +54,25 @@ Which was the pick up day with the longest trip distance? Use the pick up time f
 - 2019-09-26
 
 ![image](https://github.com/Oscari012/Oscar-zoomcamp2024/assets/68555999/b937b051-3072-4aa9-b87b-06ae3be9987d)
+
+
+<h3>Question 5. Three biggest pick up Boroughs</h3>
+
+Consider lpep_pickup_datetime in '2019-09-18' and ignoring Borough has Unknown
+
+Which were the 3 pick up Boroughs that had a sum of total_amount superior to 50000?
+
+- "Brooklyn" "Manhattan" "Queens"
+
+![image](https://github.com/Oscari012/Oscar-zoomcamp2024/assets/68555999/605b3185-fabb-43a4-86a4-b7e8ceae779e)
+
+
+<h3>Question 6. Largest tip</h3>
+
+For the passengers picked up in September 2019 in the zone name Astoria which was the drop off zone that had the largest tip? We want the name of the zone, not the id.
+
+- JFK Airport
+
+![image](https://github.com/Oscari012/Oscar-zoomcamp2024/assets/68555999/d0b46115-7b76-4be8-b256-be410aa5a04d)
+
+
